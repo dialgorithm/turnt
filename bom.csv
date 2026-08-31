@@ -1,0 +1,23 @@
+component, qty, cost, why, source
+3d printed parts, 1, $20, main stuff?, print legion
+1/8" Inch Stainless Steel Bearing Balls, 500, $5.5, base rotation, https://www.amazon.in/OMX-Stainless-Steel-Bearing-Balls/dp/B08WK62HH1
+MG996R 180° Rotation Servo, 2, $10.5, base and shoulder, https://robu.in/product/towardpro-mg996r-digital-high-torque-servo-motor/
+SG90 180° Rotation Servo, 3, $7, elbow; wrist and gripper, https://robu.in/product/towerpro-sg90-9gm-1-2kg-180-degree-rotation-servo-motor-good-quality/
+Breadboard 400 tie points, 2, $3 (w shipping), for connections, https://robocraze.com/products/half-breadboard?variant=40192557744281
+Jumper wire kit, 1, $2.5, connect stuff, https://www.amazon.in/Aptechdeals-Jumper-Wires-Female-Breadboard/dp/B074JB6SX8
+m3 screw kit, 1, $4.5, hold things together, https://www.amazon.in/TRO-140-pcs-Socket-Length/dp/B0DSWXXBH7
+UBEC-5V/5A, 1, $4.8, servo power regulator, https://robu.in/product/ubec-5v-5a/
+5V 3A BEC, 1, $2, arduino power regulator, https://robu.in/product/ultra-small-size-dc-dc-5v-3a-bec-power-supply-buck-step-down-module/
+7.4V 2200mAh 45C 2S LiPo battery, 1, $17.8, power, https://robu.in/product/orange-2200mah-2s-45c-lithium-polymer-battery-pack-lipo/
+10A+ DC switch, 1, $1, switch, https://robu.in/product/10a-250v-dpdt-on-off-on-rocker-switch/
+10A fuse, 10, $2, safety, https://robu.in/product/10a-small-car-insert-fuse-for-safe-automotive-circuit-protection/
+Fuse holder, 1, $2.5, to integrate safety, https://www.amazon.in/Crewbolt-Fuse-AMP-Pieces-Holder/dp/B0CVL4XM1Q
+18AWG Black, 3m, $3, connections, https://robu.in/product/18awg-black-600v200c-single-core-teflon-wire/
+18AWG Red, 3m, $3, connections, https://robu.in/product/18awg-red-600v200c-single-core-teflon-wire/
+30CM Servo Extension Cable, 10, $3.7, servo connections, https://www.amazon.in/30CM-Servo-Extension-Cable-Pack/dp/B0FBLG72DJ
+XT60 Female Connector, 10, $4.2, battery connections, https://www.amazon.in/Robocraze-XT60-Female-Connector-Silicon/dp/B0DPZDL158
+XT60 Male Connector, 10, $4.2, battery connections, https://www.amazon.in/Robocraze-XT60-Male-connector-pack/dp/B0DPZDLKY4
+Arduino Uno r4 with wifi, 1, $16.9, wifi interface + servo control, https://robu.in/product/official-arduino-uno-ek-wifi/
+PCA9685 16 Channel Servo Motor Driver, 1, $5 (w shipping), servo control, https://robocraze.com/products/pca9685-16-channel-servo-motor-driversoldered
+IMAX B3 2S lipo charger, 1, $4.8, charging, https://www.amazon.in/ROBODUINO-IMAX-B3-Compact-Indicator/dp/B0FD7XC2KP
+Total, -, $126, -, -
