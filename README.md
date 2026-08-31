@@ -13,7 +13,7 @@
 
 - 4 degrees of freedom: base rotation, shoulder, elbow, wrist
 - MG996R servos for base/shoulder (high torque), SG90 servos for elbow/wrist
-- ~15–20 cm planar reach-and-grasp workspace
+- ~15–20 cm planar reach-and-grasp space
 
 ## design
 
@@ -27,7 +27,7 @@
 
 ![wiring](assets/wiring.png)
 
-## cad
+## CAD
 
 | top view                           | bottom view                              |
 | ---------------------------------- | ---------------------------------------- |
