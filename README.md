@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-    4 dof desktop robotic arm
+    4 dof robotic arm with turntable base
 </h4>
 
 ![arm](assets/3dinit.png)
@@ -23,7 +23,7 @@
 
 **wrist & gripper** rotation is driven by an SG90.
 
-### wiring
+## wiring
 
 ![wiring](assets/wiring.png)
 
